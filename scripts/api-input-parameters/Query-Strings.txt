@@ -1,0 +1,18 @@
+--As a publisher, I want our analysts to be able to query the account management system to report the popularity of all our published title
+parameter1=PublishedTitles & parameter2=None
+
+--As a publisher, I want out analysts to be able to query the account management system to report a list of all the players playing on a given studios
+
+parameter1=StudioTitles & parameter2=<Game Name>
+
+--As a publisher, I want to be able to use non Personal Identifiable Data (PII) from closed accounts in my reports
+
+parameter1=NonPII & parameter2:=None
+
+--As a studio owner, I want to be able to unregister a user from one or more games in our collection
+
+parameter1=unregister & parameter2=<Game Name>
+
+--As a studio owner, I want to query the account management system to report the popularity of all our published games
+
+parameter1=report-games & parameter2=<Studio Name>

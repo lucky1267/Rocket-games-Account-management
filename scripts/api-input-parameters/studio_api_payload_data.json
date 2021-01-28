@@ -1,0 +1,22 @@
+{
+    "records": [
+      {
+        "Game_Name": "The Armor",
+        "Studio_Name": "Molestie In Company",
+        "Sudio_Location": "Boston",
+        "Game_Categeory": "Action"
+      },
+      {
+        "Game_Name": "My Arsenal",
+        "Studio_Name": "Vitae Velit Inc",
+        "Sudio_Location": "Texas",
+        "Game_Categeory": "Adventure"
+      },
+      {
+        "Game_Name": "Annihilator",
+        "Studio_Name": "Dolor Sit Inc",
+        "Sudio_Location": "London",
+        "Game_Categeory": "Action"
+      }
+    ]
+  }
